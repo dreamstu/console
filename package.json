@@ -1,0 +1,34 @@
+{
+  "name": "qs-console",
+  "version": "1.0.0",
+  "description": "js调试控制台",
+  "keywords": ["console"],
+  "homepage": "http://www.dreamstu.com/",
+  "author": "Seven",
+  "authorInfo":[{
+    "name":"Seven",
+    "email":"cjxsgn@163.com",
+    "qq":"2499039555"
+   }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamstu/console.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dreamstu/console/issues"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "output":["main.css","icon.png","panel.png"],
+    "dependencies": {
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    },
+    "engines": {
+      "seajs": "2.2.1"
+    },
+    "tests": "tests/*.js"
+  }
+}
