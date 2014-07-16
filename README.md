@@ -1,4 +1,4 @@
-# qs-console [![spm version](http://spmjs.io/badge/qs-console)](http://spmjs.io/package/qs-console)
+# qs-console
 
 ---
 
